@@ -1,0 +1,13 @@
+.on-call-doctors-container {
+  margin-top: 20px;
+}
+
+.on-call-doctors-heading {
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.on-call-doctor-item {
+  margin-bottom: 15px;
+  list-style-type: none ;
+}

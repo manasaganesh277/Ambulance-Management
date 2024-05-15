@@ -1,0 +1,26 @@
+.dashboard-container {
+  padding: 20px;
+}
+
+.dashboard-heading {
+  color: #007bff;
+  margin-bottom: 20px;
+}
+
+.reports-container {
+  margin-top: 20px;
+}
+
+.report-item {
+  margin-bottom: 15px;
+  list-style-type: none;
+}
+
+.report-type {
+  color: #007bff;
+  font-weight: bold;
+}
+
+.report-value {
+  margin-left: 10px;
+}
